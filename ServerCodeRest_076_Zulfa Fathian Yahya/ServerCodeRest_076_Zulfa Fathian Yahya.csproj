@@ -33,8 +33,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ServiceRest_076_Zulfa Fathian Yahya">
+      <HintPath>..\..\ServiceRest_076_Zulfa Fathian Yahya\ServiceRest_076_Zulfa Fathian Yahya\obj\Debug\ServiceRest_076_Zulfa Fathian Yahya.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
